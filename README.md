@@ -29,7 +29,7 @@
    <br/>
    <br/>
  
-#### :pencil2: Study log
+#### :pencil2: Study Stats
  
   <br/>
   
