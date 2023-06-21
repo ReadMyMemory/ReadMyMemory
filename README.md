@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&animation=fadeIn&text=ReadMyMemory)
 ####  :wave: Welcome !
-
-  
  <br/>
  <br/>
   
