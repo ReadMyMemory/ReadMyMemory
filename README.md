@@ -10,7 +10,6 @@
 <samp> it's going to be completed soon, so please wait a few days! </samp>
  
 <br />
-<br />
  
 ####  :clipboard: Tech Skills 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
