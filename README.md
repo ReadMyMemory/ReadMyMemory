@@ -23,7 +23,7 @@
 #### :pencil2: Study Stats
 
 
-![ReadMyMemory's github stats](https://github-readme-stats.vercel.app/api?username=ReadMyMemory&show_icons=true&theme=transparent&size_weight=0.5&count_weight=0.5)
+![ReadMyMemory's github stats](https://github-readme-stats.vercel.app/api?username=ReadMyMemory&show_icons=true&theme=transparent&size_weight=1&count_weight=1)
 ![ReadMyMemory's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=readmymemory&show_icons=true&locale=en&layout=compact)
   <br/>
   <br/>
