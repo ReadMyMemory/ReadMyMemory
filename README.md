@@ -20,15 +20,22 @@
  <br />
 
  
-#### :pencil2: Study Stats
+#### :pencil2: Github Stats
 
 
 ![ReadMyMemory's github stats](https://github-readme-stats.vercel.app/api?username=ReadMyMemory&show_icons=true&theme=transparent&size_weight=1&count_weight=1)
 ![ReadMyMemory's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=readmymemory&show_icons=true&locale=en&layout=compact)
   <br/>
   <br/>
+
+#### 💻: Algorithm Stats
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=readmymemory)](https://solved.ac/readmymemory)
+<br/>
+한 달 안에 골드 찍기 도전 중!!
+   <br/>
+   <br/>
   
-#### 🔥: github Streaks
+#### 🔥: Github Streaks
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=readmymemory&" alt="readmymemory" /></p>
 
 </div>
