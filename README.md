@@ -20,13 +20,13 @@
  <br />
 
  
-#### :pencil2: Github Stats
+<!-- #### :pencil2: Github Stats
 
 
 ![ReadMyMemory's github stats](https://github-readme-stats.vercel.app/api?username=ReadMyMemory&show_icons=true&theme=transparent&size_weight=1&count_weight=1)
 ![ReadMyMemory's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=readmymemory&show_icons=true&locale=en&layout=compact)
   <br/>
-  <br/>
+  <br/>-->
 
 #### 💻: Algorithm Stats
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=readmymemory)](https://solved.ac/readmymemory)
