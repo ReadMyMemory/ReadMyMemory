@@ -31,7 +31,7 @@
 #### 💻: Algorithm Stats
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=readmymemory)](https://solved.ac/readmymemory)
 <br/>
-**⭐ 한 달 안에 골드 찍기 도전 중 ⭐**
+**⭐ 한 달 안에 골드 찍기 도전 중(~1/5) ⭐**
    <br/>
    <br/>
   
