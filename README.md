@@ -36,7 +36,7 @@
    <br/>
 
 #### 🥗: Algorithm grass
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=ReadMyMemory&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=readmymemory&theme=warm)
 <br/>
 <br/>
   
