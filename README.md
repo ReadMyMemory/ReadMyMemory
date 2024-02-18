@@ -5,14 +5,14 @@
 
 <h1 align="center">Hi 👋, I'm J.H LEE</h1>
 
- ####  🔲: What Am I? 
-<img align="right" alt="PNG" src="https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/7c944a2d-07f4-4d0f-af5f-68e20b2b361f" width="350"/>
-  <br />
-<samp> Hey there! <br> I'm currently studying Computer Science and Engineering at Kyonggi University. <br> My passion lies in code analysis, particularly in pursuit of becoming a skilled back-end developer. <br> I enjoy diving into different codebases,<br> examining their structures,<br> and even creating my own code to share with others.<br> I'm all about collaboration and love discussing ways to improve code with fellow enthusiasts. <br> My journey to become a proficient back-end developer is ongoing,<br> and I'm committed to continuous learning and growth in this field. </samp>
+ ####  🍮: Who Am I? 
+ <br>
+<img align="right" alt="PNG" src="https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/7c944a2d-07f4-4d0f-af5f-68e20b2b361f" width="300"/>
+  <div align = "left">
+<samp> Hey there! <br> I'm currently studying Computer Science and Engineering at Kyonggi University. <br> My passion lies in code analysis, particularly in pursuit of becoming a skilled back-end developer. <br> I enjoy diving into different codebases, examining their structures,<br> and even creating my own code to share with others.<br> I'm all about collaboration and love discussing ways to improve code with fellow enthusiasts. <br> My journey to become a proficient back-end developer is ongoing,<br> and I'm committed to continuous learning and growth in this field. </samp>
+  </div>
  
 <br />
- <br>
- <br>
  <br>
  
 ####  📋: Tech Skills 
