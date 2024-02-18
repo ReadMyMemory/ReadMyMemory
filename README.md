@@ -30,6 +30,7 @@
 
 #### 💻: Algorithm Stats
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=readmymemory)](https://solved.ac/readmymemory)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ReadMyMemory&theme=warm)
 <br/>
 **⭐ 플래티넘 도전 중 (5/5) ⭐**
    <br/>
