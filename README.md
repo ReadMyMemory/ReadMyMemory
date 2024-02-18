@@ -5,13 +5,16 @@
 
 <h1 align="center">Hi 👋, I'm J.H LEE</h1>
 
- ####  :star: What Am I?
-
-<samp> it's going to be completed soon, so please wait a few days! </samp>
+ ####  🔲: What Am I? 
+<img align="right" alt="PNG" src="https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/7c944a2d-07f4-4d0f-af5f-68e20b2b361f" width="350"/>
+  <br />
+<samp> Hey there! <br> I'm currently studying Computer Science and Engineering at Kyonggi University. <br> My passion lies in code analysis, particularly in pursuit of becoming a skilled back-end developer. <br> I enjoy diving into different codebases,<br> examining their structures,<br> and even creating my own code to share with others.<br> I'm all about collaboration and love discussing ways to improve code with fellow enthusiasts. <br> My journey to become a proficient back-end developer is ongoing,<br> and I'm committed to continuous learning and growth in this field. </samp>
  
 <br />
+ <br>
+ <br>
  
-####  :clipboard: Tech Skills 
+####  📋: Tech Skills 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
