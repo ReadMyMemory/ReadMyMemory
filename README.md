@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm J.H LEE</h1>
 
- ####  🍮: Who Am I? 
+ ####  🍮: Who Am I?  
  <br>
 <img align="right" alt="PNG" src="https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/7c944a2d-07f4-4d0f-af5f-68e20b2b361f" width="370"/>
   <div align = "left">
