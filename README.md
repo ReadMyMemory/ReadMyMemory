@@ -1,6 +1,7 @@
 <div align="center"> 
 
-![image](https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/88a5270b-5072-4f11-ae8e-cad6cbd0d92f)
+<!-- ![image](https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/88a5270b-5072-4f11-ae8e-cad6cbd0d92f) -->
+![image](https://github.com/user-attachments/assets/62ca0552-1019-4fa9-8aa4-0479d5b71478)
 
 
 <h1 align="center">Hi 👋, I'm J.H LEE</h1>
@@ -50,4 +51,3 @@
 
 </div>
   <br/>
-
