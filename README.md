@@ -37,7 +37,7 @@
 #### 💻: Algorithm Stats
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=readmymemory)](https://solved.ac/readmymemory)
 <br/>
-**⭐ 플래티넘 도전 중 (Gold 4) ⭐**
+**⭐ 플래티넘 도전 중 (now : Gold 4) ⭐**
    <br/>
    <br/>
 
