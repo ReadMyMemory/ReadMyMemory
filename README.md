@@ -2,7 +2,8 @@
 
 <!-- ![image](https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/88a5270b-5072-4f11-ae8e-cad6cbd0d92f) -->
 <!--  ![9월 달력](https://github.com/user-attachments/assets/62ca0552-1019-4fa9-8aa4-0479d5b71478) -->
-![10월 달력](https://github.com/user-attachments/assets/0f640220-a3f0-45f5-ad69-1a85a043b275)
+![10월 달력](https://github.com/user-attachments/assets/5a25a878-861c-4c7f-a2f8-e20c1f360bce)
+
 
 
 
