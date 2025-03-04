@@ -18,7 +18,6 @@
 
 <h1 align="center">Hi 👋, I'm J.H LEE</h1>
 
- <br>
 <!-- <img align="right" alt="PNG" src="https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/7c944a2d-07f4-4d0f-af5f-68e20b2b361f" width="370"/> -->
 <!--   <div align = "left"> -->
 <!-- <samp><br>Hey there! </samp><br><br> <samp>I'm currently studying Computer Science and Engineering at Kyonggi University. <br> My passion lies in code analysis, particularly in pursuit of becoming a skilled back-end developer. </samp><br><br> <samp>I enjoy diving into different codebases,<br> examining their structures,<br> and even creating my own code to share with others.<br> I'm all about collaboration and love discussing ways to improve code with fellow enthusiasts. </samp><br><br> <samp>My journey to become a proficient back-end developer is ongoing,<br> and I'm committed to continuous learning and growth in this field! </samp>
@@ -35,7 +34,6 @@
 <a href = "https://sauce.im/">
  <img src="https://github.com/user-attachments/assets/95672172-a45d-4544-8a4d-343fa4c44a3e" width="50">
 </a>
-
 <br>
 <br>
 
