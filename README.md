@@ -17,7 +17,7 @@
 
 
 
-### JaeHyun Lee <img src="https://github.com/user-attachments/assets/cfafb77f-a847-4ce2-a2de-7aa439f0ac20" width="50">
+### JaeHyun Lee <img src="https://github.com/user-attachments/assets/cfafb77f-a847-4ce2-a2de-7aa439f0ac20" width="40">
 - Backend Developer 
 - Node.js(express) & Springboot 
 
