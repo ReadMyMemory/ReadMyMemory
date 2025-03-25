@@ -57,9 +57,9 @@
 <br/>
 
 #### 🏁: Goal?
-<img src="https://github.com/user-attachments/assets/f21c3cfd-9db7-4f13-83e8-9f65c7d2ee70" width="300">
-<img src="https://github.com/user-attachments/assets/f5e86165-96b6-47fa-b155-8d03713f622c" width="300">
-<img src="https://github.com/user-attachments/assets/7668e6b9-3f99-4ead-a0b9-82ad0366ccfd" width="300">
+<img src="https://github.com/user-attachments/assets/f21c3cfd-9db7-4f13-83e8-9f65c7d2ee70" width="200">
+<img src="https://github.com/user-attachments/assets/f5e86165-96b6-47fa-b155-8d03713f622c" width="200">
+<img src="https://github.com/user-attachments/assets/7668e6b9-3f99-4ead-a0b9-82ad0366ccfd" width="200">
 
 </div>
   <br/>
