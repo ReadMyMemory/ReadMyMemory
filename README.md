@@ -19,7 +19,7 @@
 
 ### JaeHyun Lee <img src="https://github.com/user-attachments/assets/cfafb77f-a847-4ce2-a2de-7aa439f0ac20" width="40">
 - Backend Developer 
-- Node.js(express) & Springboot 
+- Node.js(express) & Springboot(Java, Kotlin)
 
 <hr>
 <!-- <img align="right" alt="PNG" src="https://github.com/ReadMyMemory/ReadMyMemory/assets/122192096/7c944a2d-07f4-4d0f-af5f-68e20b2b361f" width="370"/> -->
