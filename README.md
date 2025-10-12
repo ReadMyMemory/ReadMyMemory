@@ -13,7 +13,8 @@
 <!-- ![2025 6월 달력](https://github.com/user-attachments/assets/46a3492c-5a99-450f-8a24-625f6ea5671c) -->
 <!-- ![2025 7월 달력](https://github.com/user-attachments/assets/fdb4b95d-be31-4376-899d-5385730981d8) -->
 <!-- <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/005ddd93-4996-47f9-83c8-1e6ecb0d49c3" /> -->
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4d99c479-00d5-4c34-a86e-e3c21529f6db" />
+<!-- <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4d99c479-00d5-4c34-a86e-e3c21529f6db" /> -->
+![2025 10월 달력](https://github.com/user-attachments/assets/1d30600c-588b-4824-8d81-7fc2a7e6fbc7) 
 
 
 
