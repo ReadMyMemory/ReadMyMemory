@@ -17,9 +17,6 @@
 ![2025 10월 달력](https://github.com/user-attachments/assets/1d30600c-588b-4824-8d81-7fc2a7e6fbc7) 
 
 
-
-
-
 </div>
 
 
