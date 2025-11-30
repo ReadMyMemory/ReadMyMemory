@@ -15,7 +15,8 @@
 <!-- <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/005ddd93-4996-47f9-83c8-1e6ecb0d49c3" /> -->
 <!-- <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/4d99c479-00d5-4c34-a86e-e3c21529f6db" /> -->
 <!-- ![2025 10월 달력](https://github.com/user-attachments/assets/1d30600c-588b-4824-8d81-7fc2a7e6fbc7) -->  
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2a0b6882-6d8f-483b-9b3c-e5f503828e64" />
+<!-- ![2025 11월 달력](https://github.com/user-attachments/assets/2a0b6882-6d8f-483b-9b3c-e5f503828e64) -->  
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/2f9d0750-9a23-4231-b080-ff541b742752" />
 
 
 </div>
